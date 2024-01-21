@@ -1,5 +1,6 @@
 
 Demo: Coming Soon
+
 ----------------------------------------------------------------------------------
 NodeChat is a chat application that has various functionality such as group chats,
 1-on-1 chats, realtime messaging, image and file support, read receipts and more!
