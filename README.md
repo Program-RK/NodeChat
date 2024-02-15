@@ -11,7 +11,7 @@ NodeChat is a chat application that has various functionality such as group chat
 
 Technologies used:   
 
-JavaScript
+JavaScript 
 23.7%
 
 Java
