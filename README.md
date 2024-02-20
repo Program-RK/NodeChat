@@ -13,7 +13,7 @@ Technologies used:
 
 JavaScript 
 23.7%
-
+ 
 Java
 14.3%
  
