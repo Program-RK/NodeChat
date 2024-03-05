@@ -15,7 +15,7 @@ JavaScript
 23.7%
  
 Java
-14.3%
+14.3% 
  
 Vue
 10.5%
